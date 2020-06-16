@@ -1,3 +1,4 @@
+- Please refer to Requirement.pdf for specific description.
 - Please refer to main.ipynb for an executed file.
 - Please refer to mycommand.txt for the format of an input file.
 - Location of sales1.txt and sales2.txt should be './sales1.txt' and './sales2.txt' (same directory as main.py).
